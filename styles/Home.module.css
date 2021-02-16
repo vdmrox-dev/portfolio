@@ -35,7 +35,7 @@
   align-items: center;
 }
 
-.title a {
+.title .highlight {
   color: #0070f3;
   text-decoration: none;
 }
@@ -54,7 +54,7 @@
 
 .title,
 .description {
-  text-align: center;
+  text-align: left;
 }
 
 .description {
