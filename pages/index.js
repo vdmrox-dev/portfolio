@@ -14,6 +14,7 @@ export default function Home() {
           Hi, I'm <span className={styles.highlight} href="https://nextjs.org">Vini</span>!<br/>
           I'm a <span className={styles.highlight}>Web Developer</span>.
         </h1>
+        <p>And this is staging.</p>
       </main>
     </div>
   );
